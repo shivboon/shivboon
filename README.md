@@ -1,16 +1,16 @@
-### Hi there 👋
+## The Shiva Boons and Salvation Project
 
-<!--
-**shivboon/shivboon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub repository is in progress, August 2021.
 
-Here are some ideas to get you started:
+For information on the project, see the website at https://shivboon.org .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository will contain the source of the website.
+
+The source (text, HTML, etc.) of the website is copyright © 2021 Susiddha
+Software,<br/> and is licensed under a &nbsp; &nbsp;
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+Attribution should be given to
+"Shiva Boons and Salvation Project (shivboon.org)".
+
+Thank You.
